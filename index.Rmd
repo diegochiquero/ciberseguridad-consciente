@@ -21,7 +21,7 @@ linkcolor: blue
 ontsize: 11pt
 fontfamily: bookman
 github-repo: diegochiquero/ciberseguridad-consciente
-description: "Manual de lectura recomendado para conecer los ciberdelitos a los que nos exponemos y cómo evitarlos."
+description: "Guía de lectura recomendado para conecer los ciberdelitos a los que nos exponemos y cómo evitarlos."
 keywords: "seguridad,privacidad, ciberdelitos, ciberdelincuentes,internet"
 cover-image: images/cover.png
 ---
@@ -34,7 +34,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 <p style="text-align: center;"><img src="images/cover.png" alt="The R Markdown book cover" /></p>
 ```
-Este manual aglutina de manera filtrada y tamizada una amplia y detallada parte del conocimiento e información de relevancia que puedes encontrar en la web sobre privacidad y seguridad en internet, de forma ordenada y estructurada. Además, encontrarás en la bibliografía todas las fuentes que han hecho posible la elaboración y documentación de este manual, para que puedas contrastar por ti mismo dichas fuentes.
+Esta guía aglutina de manera filtrada y tamizada una amplia y detallada parte del conocimiento e información de relevancia que puedes encontrar en la web sobre privacidad y seguridad en internet, de forma ordenada y estructurada. Además, encontrarás en la bibliografía todas las fuentes que han hecho posible la elaboración y documentación de est guía, para que puedas contrastar por ti mismo dichas fuentes.
 
 Entenderás las diferencias entre los conceptos de privacidad y seguridad en internet, para que de este modo puedas hacer una buena configuración y uso de éstas.
 
@@ -42,15 +42,15 @@ Aprenderás buenas prácticas en la gestión de la privacidad, así como la mane
 
 Conocerás las principales amenazas que existen en el uso de las tecnologías y el mundo digital.
 
-Y por último, pero no por ello menos importante, se abordarán otros conceptos relacionados con los ciberdelitos, la huella digital, la importancia de ser selectivos con la información online y otros aspectos más.
+Por último, pero no por ello menos importante, se abordarán otros conceptos relacionados con los ciberdelitos, la huella digital, la importancia de ser selectivos con la información online y otros aspectos más.
 
 Todo ello actualizado al contexto actual, donde la inteligencia artificial forma parte de nuestro día a día digital: entenderás cómo estas tecnologías amplifican tanto las oportunidades como los riesgos, cómo afectan a tu privacidad, cómo pueden utilizarse para manipular, perfilar o automatizar ataques, y qué medidas prácticas puedes tomar para protegerte en un entorno donde la frontera entre lo humano y lo automatizado es cada vez más difusa.
 
-Para concluir, también encontrarás a lo largo del manual multitud de enlaces que te llevarán a más información ampliada sobre las temáticas, así como una extensa lista de recursos y herramientas para que puedas llevar tu privacidad y seguridad en internet al siguiente nivel.
+También encontrarás a lo largo de la guía, multitud de enlaces que te llevarán a más información ampliada sobre las temáticas, así como una extensa lista de recursos y herramientas para que puedas llevar tu privacidad y seguridad en internet al siguiente nivel.
 
-Si quieres contribuir y ayudar a  nutrir de más contenido de valor este manual, por favor, no lo dudes y ponte en contacto conmigo, estaré encantado que colaboremos. Encontrarás mis datos de contacto en el siguiente apartado *sobre el autor*.
+Si quieres contribuir y ayudar a  nutrir de más contenido de valor esta guía, por favor, no lo dudes y ponte en contacto conmigo, estaré encantado que colaboremos. Encontrarás mis datos de contacto en el siguiente apartado *sobre el autor*.
 
-Este manual está disponible en el repositorio Github: [diegochiquero/ciberseguridad-consciente](https://github.com/diegochiquero/ciberseguridad-consciente). Y ha sido escrito en [R-Markdown](http://rmarkdown.rstudio.com) empleando el paquete [`bookdown`](https://bookdown.org/) cuya guia encontrarás en [@R-bookdown].
+Esta guía está disponible en el repositorio Github: [diegochiquero/ciberseguridad-consciente](https://github.com/diegochiquero/ciberseguridad-consciente). Y ha sido escrito en [R-Markdown](http://rmarkdown.rstudio.com) empleando el paquete [`bookdown`](https://bookdown.org/) cuya guia encontrarás en [@R-bookdown].
 
 Esta obra está bajo la [licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).  
 
