@@ -6,7 +6,7 @@ knitr::include_graphics('images/diego-chiquero-m-2023-profile.png')
 
 Hola, mi nombre es Diego.
 
-Y lo primero que me gustaría hacer es agradecerte que hayas decidido leer este manual. Ese simple gesto hace que todas las horas de dedicación, esfuerzo, documentación, contraste de fuentes y curación de contenidos hayan merecido la pena. Mi propósito aquí es acompañarte: ayudarte a tomar conciencia de los peligros reales de navegar por internet, de lo expuesto que puedes llegar a estar en tu día a día digital y, al mismo tiempo, darte herramientas prácticas para gestionar la tecnología de forma segura, privada y con más control.
+Y lo primero que me gustaría hacer es agradecerte que hayas decidido leer esta guía. Ese simple gesto hace que todas las horas de dedicación, esfuerzo, documentación, contraste de fuentes y curación de contenidos hayan merecido la pena. Mi propósito aquí es acompañarte: ayudarte a tomar conciencia de los peligros reales de navegar por internet, de lo expuesto que puedes llegar a estar en tu día a día digital y, al mismo tiempo, darte herramientas prácticas para gestionar la tecnología de forma segura, privada y con más control.
 
 Soy desarrollador web full stack, emprendedor tecnológico y divulgador autodidacta especializado en lo que llamo ciberseguridad consciente: una forma de entender la seguridad digital que va más allá de proteger dispositivos. Se trata de cultivar hábitos, criterio y autonomía para relacionarnos con la tecnología desde la atención y no desde el miedo.
 
@@ -14,7 +14,7 @@ Desde Málaga (Andalucía), donde trabajo como profesional independiente, llevo 
 
 Participo en talleres, charlas y proyectos comunitarios donde transformo dudas reales en prácticas sencillas que cualquiera puede aplicar. Para mí, la seguridad no es una colección de trucos, sino una actitud: prestar atención, entender lo que hacemos y tomar decisiones informadas en un mundo cada vez más automatizado.
 
-En la era de la inteligencia artificial, mi objetivo es ayudarte a navegar un ecosistema donde la tecnología es poderosa, pero también opaca. Aspiro a que este manual te sirva para usar la web con más conciencia, más control y menos fricción.
+En la era de la inteligencia artificial, mi objetivo es ayudarte a navegar un ecosistema donde la tecnología es poderosa, pero también opaca. Aspiro a que esta guía te sirva para usar la web con más conciencia, más control y menos fricción.
 
 Diego Chiquero Mena
 
