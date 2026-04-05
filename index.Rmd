@@ -44,7 +44,7 @@ Conocerás las principales amenazas que existen en el uso de las tecnologías y 
 
 Y por último, pero no por ello menos importante, se abordarán otros conceptos relacionados con los ciberdelitos, la huella digital, la importancia de ser selectivos con la información online y otros aspectos más.
 
-<!-- Todo ello actualizado al contexto actual, donde la inteligencia artificial forma parte de nuestro día a día digital: entenderás cómo estas tecnologías amplifican tanto las oportunidades como los riesgos, cómo afectan a tu privacidad, cómo pueden utilizarse para manipular, perfilar o automatizar ataques, y qué medidas prácticas puedes tomar para protegerte en un entorno donde la frontera entre lo humano y lo automatizado es cada vez más difusa. -->
+Todo ello actualizado al contexto actual, donde la inteligencia artificial forma parte de nuestro día a día digital: entenderás cómo estas tecnologías amplifican tanto las oportunidades como los riesgos, cómo afectan a tu privacidad, cómo pueden utilizarse para manipular, perfilar o automatizar ataques, y qué medidas prácticas puedes tomar para protegerte en un entorno donde la frontera entre lo humano y lo automatizado es cada vez más difusa.
 
 Para concluir, también encontrarás a lo largo del manual multitud de enlaces que te llevarán a más información ampliada sobre las temáticas, así como una extensa lista de recursos y herramientas para que puedas llevar tu privacidad y seguridad en internet al siguiente nivel.
 
